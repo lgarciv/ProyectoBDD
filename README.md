@@ -6,7 +6,7 @@ Sistema de gestión de videojuegos para tiendas pequeñas. Permite compras, stoc
 ## Integrantes
 - Nombre 1 - 21.403.290-2 Leandro Garcia
 - Nombre 2 - 21.901.267-5 Felipe Painenao
-- Nombre 3 - 
+- Nombre 3 - 21.861.159-1 Sebastián Arroyo
 
 ## Instrucciones
 1. Ejecutar `Tablas finales` para crear las tablas.

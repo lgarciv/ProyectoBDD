@@ -51,3 +51,5 @@ VALUES (1, 1, '2025-07-08');
 -- Esperado: Error por restricción PK
 INSERT INTO lista_deseos (id_usuario, id_videojuego, fecha_agregado)
 VALUES (1, 1, '2025-07-08');
+
+-- TC17: Agregar 
